@@ -9,7 +9,7 @@
 
 💻 I'm currently studying **JavaScript, HTML and CSS** through the **Oracle ONE G9 program** in partnership with **Alura**, **Unity3D** through EBAC and **Python, Artificial Intelligence and DevOps/Agile Culture** through **FIAP**. I'm happy declare myself as a very dedicated self-taught learner, always making room to explore new tools and technologies.
 
-🌍 As a polyglot (Brazilian Portuguese, English, Spanish and a little bit of German) and lifelong learner, I believe that curiosity and persistence are my greatest allies. I'm excited to collaborate on meaningful projects and contribute to building more inclusive and engaging experiences.
+🌍 As a polyglot (Brazilian Portuguese, English, Spanish and a little bit of German), I believe that curiosity and persistence are my greatest allies. I'm excited to collaborate on meaningful projects and contribute to building more inclusive and engaging digital experiences.
 
 <div align="center">
 
