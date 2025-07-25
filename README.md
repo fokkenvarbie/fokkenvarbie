@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/fokkenvarbie/fokkenvarbie/blob/output/github-contribution-grid-snake.svg)
-
 👋 Hi there! My name is <b>Bárbara</b>, but you can call me <b>Varbie</b>!
 
 🎮 I'm a 26-year-old Brazilian Game Designer and Game Artist, passionate about technology, creativity, and problem-solving. I'm a proud mother of a 4-year-old boy, a neurodivergent person living with autism and fibromyalgia, and a firm believer that diversity brings strength to every team.
