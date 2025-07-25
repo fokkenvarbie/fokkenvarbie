@@ -1,6 +1,7 @@
 <div align="center">
+<img src="https://i.postimg.cc/19Pgb6wH/octocat-1753417737911.png" width="250">
+
 👋 Hi there! My name is <b>Bárbara</b>, but you can call me <b>Varbie</b>!</div>
-<br>
 
 🎮 I'm a 26-year-old Brazilian **Game Designer & Game Artist**, passionate about technology, creativity and problem-solving. I'm a proud neurodivergent person living with autism and fibromyalgia, and a firm believer that diversity brings strength to every team.
 
