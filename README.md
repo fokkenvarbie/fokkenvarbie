@@ -7,7 +7,7 @@
 
 🎓 I hold degrees in **Game Design** from Universidade Estácio and **Game Art** from EBAC. My goal is to start a career in **Quality Assurance**, especially within the **game industry**, where I can combine my technical skills with my attention to detail.
 
-💻 I'm currently studying **JavaScript, HTML and CSS** through the **Oracle ONE G9 program** in partnership with **Alura**, **Unity3D** through EBAC and **Python, Artificial Intelligence and DevOps/Agile Culture** through **FIAP**. I'm happy declare myself as a very dedicated self-taught learner, always making room to explore new tools and technologies.
+💻 I'm currently studying **JavaScript, HTML and CSS** through the **Oracle ONE G9 program** in partnership with **Alura**, **Unity3D** through EBAC and **Python, Artificial Intelligence and DevOps/Agile Culture** through **FIAP**. I'm happy to declare myself as a very dedicated self-taught learner, always making room to explore new tools and technologies.
 
 🌍 As a polyglot (Brazilian Portuguese, English, Spanish and a little bit of German), I believe that curiosity and persistence are my greatest allies. I'm excited to collaborate on meaningful projects and contribute to building more inclusive and engaging digital experiences.
 
