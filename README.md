@@ -3,13 +3,11 @@
 
 👋 Hi there! My name is <b>Bárbara</b>, but you can call me <b>Varbie</b>!</div>
 
-🎮 I'm a 26-year-old Brazilian **Game Designer & Game Artist**, passionate about technology, creativity and problem-solving. I'm a proud neurodivergent person living with autism and fibromyalgia, and a firm believer that diversity brings strength to every team.
+🎮 I'm a 26-year-old Brazilian **Game Designer & Game Artist**, passionate about technology, creativity and problem-solving. I'm a proud neurodivergent person living with ASD, ADHD and Fibromyalgia, and a firm believer that diversity brings strength to every team.
 
-🎓 I hold degrees in **Game Design** from Universidade Estácio and **Game Art** from EBAC. My goal is to start a career in **Quality Assurance**, especially within the **game industry**, where I can combine my technical skills with my attention to detail.
+🎓 I hold degrees in **Digital Games** from Universidade Estácio and **Game Artist** from EBAC. My goal is to start a career in **Quality Assurance**, especially within the **game industry**, where I can combine my technical skills with my attention to detail.
 
-💻 I'm currently studying **JavaScript, HTML and CSS** through the **Oracle ONE G9 program** in partnership with **Alura**, **Unity3D** through EBAC and **Python, Artificial Intelligence and DevOps/Agile Culture** through **FIAP**. I'm happy to declare myself as a very dedicated self-taught learner, always making room to explore new tools and technologies.
-
-🌍 As a polyglot (Brazilian Portuguese, English, Spanish and a little bit of German), I believe that curiosity and persistence are my greatest allies. I'm excited to collaborate on meaningful projects and contribute to building more inclusive and engaging digital experiences.
+🌍 As a polyglot (Brazilian Portuguese, English, Spanish and a little bit of German), I believe that curiosity and persistence are my greatest allies. I'm happy to declare myself as a very dedicated self-taught learner, always making room to explore new tools and technologies, and excited to collaborate on meaningful projects and contribute to building more engaging digital experiences.
 
 <div align="center">
 
