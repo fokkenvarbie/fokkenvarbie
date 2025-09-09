@@ -1,7 +1,4 @@
 <div align="center">
-Hi, I’m Bárbara (but you can call me Varbie)!
-
-<div align="center">
 
 ## Skills & Technologies (In Progress):
 
