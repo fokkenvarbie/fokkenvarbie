@@ -1,11 +1,16 @@
 <div align="center">
-Hi there! My name is Bárbara, but you can call me Varbie!
-
-I’m a 26-year-old Brazilian Game Designer & Game Artist, passionate about technology, creativity, and problem-solving. I’m a proud neurodivergent living with ASD, ADHD, and Fibromyalgia, and I firmly believe that diversity strengthens every team.
-
-I hold a degree in Digital Games from UNESA and a professional certification in Game Artist from EBAC, a reference in creative arts and technology. I am currently studying Unity 3D development and transitioning into the field of Quality Assurance, focusing on test automation and agile methodologies. I am part of the Oracle ONE G9 program in partnership with Alura, with a future specialization in Back-end Development with Java and Artificial Intelligence and I plan to pursue a postgraduate degree in Software Engineering.<br>My career goal is to work with Quality Assurance within the game industry.
-
-As a polyglot (Brazilian Portuguese, English and Spanish), I see curiosity and persistence as my greatest allies. I’m a dedicated self-taught learner, always eager to explore new technologies, collaborate on meaningful projects, and create more engaging digital experiences.
+Hi, I’m Bárbara (but you can call me Varbie)!
+<br>
+Brazilian Game Designer & Game Artist transitioning into Quality Assurance.
+<br>
+<br>
+• Degree in Digital Games (UNESA) and Professional Certification in Game Art (EBAC)
+<br>
+• Currently part of the Oracle ONE G9 program (Alura)
+  <br>
+• Neurodivergent professional (ASD, ADHD, Fibromyalgia)
+  <br>
+• Languages: Portuguese, English, Spanish  
 
 <div align="center">
 
