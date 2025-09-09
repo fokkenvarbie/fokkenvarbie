@@ -1,16 +1,5 @@
 <div align="center">
 Hi, I’m Bárbara (but you can call me Varbie)!
-<br>
-Brazilian Game Designer & Game Artist transitioning into Quality Assurance.
-<br>
-<br>
-• Degree in Digital Games (UNESA) and Professional Certification in Game Art (EBAC)
-<br>
-• Currently part of the Oracle ONE G9 program (Alura)
-  <br>
-• Neurodivergent professional (ASD, ADHD, Fibromyalgia)
-  <br>
-• Languages: Portuguese, English, Spanish  
 
 <div align="center">
 
